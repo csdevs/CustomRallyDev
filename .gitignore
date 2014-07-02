@@ -1,0 +1,17 @@
+Find Results
+.DS_Store
+node_modules/
+lib/
+gen/
+*.iml
+*.ipr
+*.iws
+bin/sencha/
+build/
+target/
+.grunt/
+.idea
+_SpecRunner.html
+appcatalog.version
+*.sublime-workspace
+temp/
